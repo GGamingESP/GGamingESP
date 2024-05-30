@@ -21,19 +21,19 @@
 
 ## 💼 Proyectos Destacados
 
-- **[🌟 Nombre del Proyecto 1](enlace-al-proyecto)**: 
+- **🌟The Animal Academy App**: 
   - 🔧 **Tecnologías**: React, Laravel, TailwindCSS
   - 📝 **Descripción**: Un Proyecto dedicado a manejar los datos de un refugio de animales.
   
 
 ## 🌱 En constante aprendizaje
 
-Siempre estoy buscando mejorar mis habilidades y aprender nuevas tecnologías. Actualmente, estoy explorando **NextJS, Astro.dev, Adonis.js** para integrarlo en mis futuros proyectos.
+Siempre estoy buscando mejorar mis habilidades y aprender nuevas tecnologías. Actualmente, estoy explorando **NextJS, Astro.dev, Angular** para integrarlo en mis futuros proyectos.
 
 ## 📫 Contacto
 
 - 📧 **Correo**: [ivandasilvamarmtin1@gmail.com](mailto:ivandasilvamartin1@gmail.com)
-- 💼 **LinkedIn**: [Tu Perfil de LinkedIn](enlace-a-linkedin)
+- 💼 **LinkedIn**: [Tu Perfil de LinkedIn]([enlace-a-linkedin](https://www.linkedin.com/in/ivan-da-silva-martin-86a0042b4/))
 
 ## 🎯 Objetivos
 
