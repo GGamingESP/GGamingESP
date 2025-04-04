@@ -32,8 +32,8 @@ Siempre estoy buscando mejorar mis habilidades y aprender nuevas tecnologías. A
 
 ## 📫 Contacto
 
-- 📧 **Correo**: [ivandasilvamarmtin1@gmail.com](mailto:ivandasilvamartin1@gmail.com)
-- 💼 **LinkedIn**: [Tu Perfil de LinkedIn](https://www.linkedin.com/in/ivan-da-silva-martin-86a0042b4/)
+- 📧 **Correo**: [ivandasilvamartin1@gmail.com](mailto:ivandasilvamartin1@gmail.com)
+- 💼 **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/ivan-da-silva-martin-86a0042b4/)
 
 ## 🎯 Objetivos
 
